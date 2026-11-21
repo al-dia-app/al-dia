@@ -2,9 +2,8 @@
 
 Descargas de Al día. Instrucciones: **https://scheduleer.app/al-dia/**
 
-> Proyecto estudiantil no oficial. No está afiliado ni respaldado por Uniandes ni por D2L.
-> Usarlo puede ir en contra de los términos de uso de D2L o de la universidad. Revísalos
-> antes de usarlo. Sigue las reglas de cada curso sobre el uso de IA.
+Proyecto estudiantil independiente, sin afiliación con Uniandes ni con D2L. Antes de
+usar Al día en un curso, revisa su política de uso de IA.
 
 Cada versión está en [Releases](../../releases/latest):
 
